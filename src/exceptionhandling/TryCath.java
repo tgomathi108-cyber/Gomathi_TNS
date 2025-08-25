@@ -28,4 +28,9 @@ public class TryCath {
 
 	}
 
+	private static int performDivision(float f, float g) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
 }
